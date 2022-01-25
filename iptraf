@@ -1,0 +1,4 @@
+#! /bin/bash
+#/usr/sbin/iptraf-ng -i enp0s3 -B -L /var/log/iptraf-ng/enp0s
+/usr/sbin/iptraf-ng -i enp0s3 -B -L /home/andrey/iptraf/iptraf.sock
+
